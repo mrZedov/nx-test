@@ -1,7 +1,7 @@
 {
   "extends": "./tsconfig.json",
   "compilerOptions": {
-    "outDir": "../../dist/out-tsc",
+    "outDir": "../../dist/apps/backend",
     "target": "es2020",
     "module": "commonjs",
     "sourceMap": true,
